@@ -1,0 +1,108 @@
+
+RETURNING USER
+
+1. Start Up Page (logo, image, start button) 
+starter.html
+
+2. New User/Returning User 
+startoptions.html
+
+3. Enter Phone Number (burger icon, logo, form/submit)
+ruphonenumber.hmtl
+
+4. 4 digit pin 
+pin.html
+
+5. Hi there page (build my burger)
+.buildmyburger1
+
+6. Bun
+bun.html 
+
+7. Burger Cooked
+meat.html
+
+8. Toppings 
+toppings.html
+
+9. Dream Burger?
+dreamburger.html
+
+10. Added to cart screen (view cart, checkout or build another burger)
+added.html
+
+11. View Cart
+viewcart.html
+
+12. Checkout 
+checkout.html
+
+13. Cash into Kiosk
+price.html
+
+MAYBE DO PROCESSING SCREEN
+
+14. Reciept options
+reciept.html
+
+15. Order Number
+ordernumber.html
+
+
+
+
+
+NEW USER
+
+1. Start Up Page (logo, image, start button) 
+starter.html
+
+2. New User/Returning User 
+startoptions.html
+
+3. Enter Phone Number (burger icon, logo, form/submit)
+nuphonenumber.hmtl
+
+4. Confirmation Code 
+confirmationcode.html
+
+5.Enter Name
+entername.html
+
+6. Enter A 4 digit pin
+pin2.html
+
+7. You are all set! (build my burger)
+.buildmyburger2
+
+8. Bun
+bun.html 
+
+9. Burger Cooked
+meat.html
+
+10. Toppings 
+toppings.html
+
+11. Dream Burger?
+dreamburger.html
+
+12. Added to cart screen (view cart, checkout or build another burger)
+added.html
+
+13. View Cart
+viewcart.html
+
+14. Checkout 
+checkout.html
+
+15. Cash into Kiosk
+price.html
+
+MAYBE DO PROCESSING SCREEN
+
+16. Reciept options
+reciept.html
+
+17. Order Number
+ordernumber.html
